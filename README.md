@@ -147,11 +147,12 @@ For questions, suggestions, or support, reach out at:
 
 
 
-Email: support@stockmlpipeline.com
+Email: asadmalik200315@gmail.com
 
 
 
-Phone: +92 514-874490 | +92 300-5874020
+LinkedIn: https://www.linkedin.com/in/asad-malik-62b60b310/
+
 
 
 
@@ -166,6 +167,8 @@ Inspired by the vibrant stock trading community and the power of open-source too
 
 
 Special thanks to the maintainers of Streamlit, scikit-learn, and yfinance for their amazing libraries.
+
+
 
 
 
